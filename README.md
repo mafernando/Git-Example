@@ -1,7 +1,7 @@
 Git-Example
 ===========
 
-A throwaway experimental repo for a Git tutorial.
+change 1
 
 Let's learn git basics together!
 
